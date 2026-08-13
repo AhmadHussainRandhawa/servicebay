@@ -35,7 +35,7 @@ Ensure you have the following installed on your system:
 ### Steps
 1. Clone the Repository:
    ```bash
-   git clone <repository_url>
+   git clone git@github.com:AhmadHussainRandhawa/Coding-Services.git
    cd services
    ```
 
@@ -164,11 +164,11 @@ Contributions are welcome! If you'd like to make improvements, follow these step
 ---
 
 ## Contact
-If you have any questions or feedback, feel free to reach out:
-- **Name**: Ahmad Hussain
-- **LinkedIn**: [https://www.linkedin.com/in/ahmad-hussain01/]
-- **GitHub**: [https://github.com/AhmadHussainRandhawa]
-- **Email**: [official.ahmadrandhawa@gmail.com]
+If you have any questions or feedback, feel free to reach out:   
+
+[<img src="https://img.icons8.com/3d-fluency/30/secured-letter.png" alt="Email" style="vertical-align: middle;"/> official.ahmadrandhawa@gmail.com](mailto:official.ahmadrandhawa@gmail.com)   
+[<img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" width="26" alt="GitHub"/> My GitHub Profile](https://github.com/AhmadHussainRandhawa)   
+[<img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="26" alt="LinkedIn"/>  Ahmad Hussain](https://www.linkedin.com/in/ahmad-hussain-randhawa/)
 
 ---
 
